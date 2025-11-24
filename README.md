@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&theme=tokyonight<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&theme=tokyonight) <br>
+
 
 ### ✍️ Random Dev Quote
 
