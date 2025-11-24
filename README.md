@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br>
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&theme=light)
 
 
 
