@@ -20,7 +20,7 @@
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=2ecc71)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=21D375&authorColor=0B6E4F)
 
 
 <!--
