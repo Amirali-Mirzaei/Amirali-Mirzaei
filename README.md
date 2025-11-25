@@ -22,4 +22,4 @@
 
 ### ✍️ Random Dev Quote
 
-<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Amirali" /></p>
+<p>&nbsp;<img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Amirali" /></p>
