@@ -1,6 +1,6 @@
 ## 🌀 About Me: 
   📚 I build modern, clean, and responsive websites focused on great UI & smooth user experience.<br>
-  🔭 Currently focused on building real-world projects with Vue.js<br>
+  🔭 Currently focused on building real-world projects with Vue.js.<br>
   🧠 Always learning, always leveling up.<br>
   🎯 Interested in performance optimization, UI/UX, and clean code principles.<br>
   ⚡ I believe that you can learn anything, you just have to keep going!
