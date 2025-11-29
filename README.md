@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amirali</h1>><br>
+<h1 align="center">Hi 👋, I'm Amirali</h1><br>
 
 ## 🌀 About Me: 
   📚 I build modern, clean, and responsive websites focused on great UI & smooth user experience.<br>
