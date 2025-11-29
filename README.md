@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirali</h1>
-
-## 🌀 About Me: 
+ 
   📚 I build modern, clean, and responsive websites focused on great UI & smooth user experience.<br>
   🔭 Currently focused on building real-world projects with Vue.js.<br>
   🧠 Always learning, always leveling up.<br>
