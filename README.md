@@ -7,7 +7,7 @@
   ⚡ I believe that you can learn anything, you just have to keep going!
 
 ## 📡 Social & Contact: 
-  <a href="www.linkedin.com/in/amirali-mirzaei" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a  href="mailto:mirzaeiamirali111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br>
+  <a href="[www.linkedin.com/in/amirali-mirzaei](https://www.linkedin.com/in/amirali-mirzaei)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a  href="mailto:mirzaeiamirali111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a><br>
 
   ## 👨‍💻 Languages & Tools:
  <div style="display:flex; gap:6px; flex-wrap:wrap;">
