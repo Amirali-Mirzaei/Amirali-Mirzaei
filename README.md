@@ -17,7 +17,7 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=https://raw.githubusercontent.com/username/logo.svg&logoColor=white" />
 </div><br>
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amirali-Mirzaei&layout=compact&bg_color=000000&title_color=4CAF50&text_color=81C784&icon_color=66BB6A&border_color=2E7D32)
 
 
 ### ✍️ Random Dev Quote
